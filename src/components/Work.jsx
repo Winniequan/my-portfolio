@@ -11,7 +11,7 @@ const Work = () => {
       className="w-full md:h-full text-gray-300 bg-purple-900 flex pt-14"
     >
       {/*Container */}
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full space-y-8">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-pink-600">
             Work
